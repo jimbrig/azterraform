@@ -1,0 +1,4 @@
+storage_account_name="sajimbrig"
+container_name="sacjimbrigtfstate"
+key="terraform.tfstate"
+access_key="KPtiUUosbu94Dz/EEpVOtONFC8jf0tu33u9rG1Rzwn4fvWpnWLLEy0GdQ8VFZLDngNUGmxZvfhbS+AStWkqkww=="
